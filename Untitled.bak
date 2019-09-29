@@ -70,10 +70,10 @@ F 3 "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf" H 8300 2700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R1k
+L Device:R R?
 U 1 1 5D91B2DE
 P 5500 950
-F 0 "R1k" H 5430 904 50  0000 R CNN
+F 0 "R?" H 5430 904 50  0000 R CNN
 F 1 "R" H 5430 995 50  0000 R CNN
 F 2 "" V 5430 950 50  0001 C CNN
 F 3 "~" H 5500 950 50  0001 C CNN
@@ -81,10 +81,10 @@ F 3 "~" H 5500 950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R R1k
+L Device:R R?
 U 1 1 5D910C81
 P 5500 1250
-F 0 "R1k" H 5430 1204 50  0000 R CNN
+F 0 "R?" H 5430 1204 50  0000 R CNN
 F 1 "R" H 5430 1295 50  0000 R CNN
 F 2 "" V 5430 1250 50  0001 C CNN
 F 3 "~" H 5500 1250 50  0001 C CNN
