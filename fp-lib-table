@@ -3,4 +3,6 @@
   (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
   (lib (name 57PC5F)(type Legacy)(uri ${KIPRJMOD}/57PC5F.mod)(options "")(descr ""))
+  (lib (name KMDGX-6S-BS)(type Legacy)(uri ${KIPRJMOD}/KMDGX-6S-BS.mod)(options "")(descr ""))
+  (lib (name MD-40SM)(type Legacy)(uri ${KIPRJMOD}/MD-40SM.mod)(options "")(descr ""))
 )

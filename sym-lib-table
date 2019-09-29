@@ -3,4 +3,6 @@
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/keebio-components/keebio.lib)(options "")(descr ""))
   (lib (name 57PC5F)(type Legacy)(uri ${KIPRJMOD}/57PC5F.lib)(options "")(descr ""))
+  (lib (name KMDGX-6S-BS)(type Legacy)(uri ${KIPRJMOD}/KMDGX-6S-BS.lib)(options "")(descr ""))
+  (lib (name MD-40SM)(type Legacy)(uri ${KIPRJMOD}/MD-40SM.lib)(options "")(descr ""))
 )
